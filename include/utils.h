@@ -6,21 +6,9 @@
 #include <stdio.h>
 
 void s_title_print(void);
-
-struct s
-{   
-    unsigned int online;
-    unsigned int offline;
-    unsigned int mpm;
-};
-
-struct p
-{
-    char name[12];
-    char psw[12];
-};
-
-
+void update_online(int n);
+void update_offline(int n);
+void update_msm(int n);
 
 
 
