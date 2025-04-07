@@ -4,11 +4,18 @@ int main(void)
 {
     s_title_print();
     
+    
+
+
+
+    
+    
+    
+    
 
     while(1)
     {
         pause();
     }
-
     return 0;
 }
